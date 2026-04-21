@@ -41,14 +41,27 @@
   {
     "id": 4,
     "name": "Broadcom",
-    "symbol": "AVGO",
+    "symbol": "Broadcom",
     "date": "2026-03-10",
     "type": "BUY",
     "invType": "Stock",
-    "qty": 0.7,
+    "qty": 1,
     "unitCost": 365,
     "fee": 1.41,
-    "totalCost": 256.90999999999997,
-    "avgUnitCost": 367.0142857142857
+    "totalCost": 366.41,
+    "avgUnitCost": 366.41
+  },
+  {
+    "id": 5,
+    "name": "Broadcom",
+    "symbol": "SYM",
+    "date": "2026-04-21",
+    "type": "SELL",
+    "invType": "Stock",
+    "qty": 0.6,
+    "unitCost": 380,
+    "fee": 1.41,
+    "totalCost": 229.41,
+    "avgUnitCost": 382.35
   }
 ]
