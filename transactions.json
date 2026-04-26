@@ -12,5 +12,149 @@
     "PIMIX": 11.19299520610012,
     "VTI": 360.1172168770505
   },
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-04-09",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.2721,
+      "unitCost": 367.42,
+      "fee": 1.24
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-04-09",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.3878,
+      "unitCost": 257.82,
+      "fee": 1.24
+    },
+    {
+      "id": 3,
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-04-07",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.285,
+      "unitCost": 175.39,
+      "fee": 0.74
+    },
+    {
+      "id": 4,
+      "name": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-04-09",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.5667,
+      "unitCost": 352.86,
+      "fee": 1.24
+    },
+    {
+      "id": 5,
+      "name": "iShares Treasury",
+      "symbol": "IEF",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 2.6073,
+      "unitCost": 57.53,
+      "fee": 1.54
+    },
+    {
+      "id": 6,
+      "name": "Roundmill",
+      "symbol": "MAGS",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 2.4469,
+      "unitCost": 61.2999,
+      "fee": 1.54
+    },
+    {
+      "id": 7,
+      "name": "Invesco",
+      "symbol": "QQQ",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.2448,
+      "unitCost": 612.6,
+      "fee": 1.24
+    },
+    {
+      "id": 8,
+      "name": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.7973,
+      "unitCost": 373.74,
+      "fee": 1.49
+    },
+    {
+      "id": 9,
+      "name": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.8036,
+      "unitCost": 373.32,
+      "fee": 1.49
+    },
+    {
+      "id": 10,
+      "name": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 1.1454,
+      "unitCost": 261.905,
+      "fee": 1.83
+    },
+    {
+      "id": 11,
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-04-10",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 1.5932,
+      "unitCost": 188.29,
+      "fee": 1.58
+    },
+    {
+      "id": 12,
+      "name": "iShares Treasury",
+      "symbol": "IEF",
+      "date": "2026-04-12",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 4.3959,
+      "unitCost": 56.87,
+      "fee": 1.57
+    },
+    {
+      "id": 13,
+      "name": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-04-14",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.9598,
+      "unitCost": 260.45,
+      "fee": 1.24
+    }
+  ]
 }
