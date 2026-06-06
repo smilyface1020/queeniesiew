@@ -1,6 +1,6 @@
 {
   "clientName": "Queennie Siew",
-  "initialCapital": 5125,
+  "initialCapital": 5325,
   "currency": "USD",
   "latestPrices": {
     "MSFT": 415.05,
@@ -193,6 +193,83 @@
       "invType": "Stock",
       "qty": 0.3302,
       "unitCost": 605.62,
+      "fee": 1.24
+    },
+    {
+      "id": 17,
+      "name": "Roundhill",
+      "symbol": "MAGS",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 1.43,
+      "unitCost": 69.9298,
+      "fee": 1.24
+    },
+    {
+      "id": 18,
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.6576,
+      "unitCost": 228.09,
+      "fee": 1.24
+    },
+    {
+      "id": 19,
+      "name": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.2339,
+      "unitCost": 427.51,
+      "fee": 1.24
+    },
+    {
+      "id": 20,
+      "name": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-05-15",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.3552,
+      "unitCost": 422.18,
+      "fee": 1.24
+    },
+    {
+      "id": 21,
+      "name": "TESLA",
+      "symbol": "TSLA",
+      "date": "2026-05-28",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.4569,
+      "unitCost": 437.69,
+      "fee": 1.24
+    },
+    {
+      "id": 22,
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2026-05-28",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.4694,
+      "unitCost": 213,
+      "fee": 1.24
+    },
+    {
+      "id": 23,
+      "name": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-06-05",
+      "type": "BUY",
+      "invType": "Stock",
+      "qty": 0.2251,
+      "unitCost": 399.65,
       "fee": 1.24
     }
   ]
